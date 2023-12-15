@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "name": "Abhijeet Ram Patil",
+      "mobile": 9850006781,
+      "city": "PIMPRI CHINCHWAD",
+      "state": "MAHARASHTRA",
+      "id": 1
+    },
+    {
+      "name": "Shivanya Ram Patil",
+      "mobile": 9850006781,
+      "city": "PIMPRI CHINCHWAD",
+      "state": "MAHARASHTRA",
+      "id": 2
+    },
+    {
+      "name": "Abhijeet Ram Patil",
+      "mobile": 9850006781,
+      "city": "PIMPRI CHINCHWAD",
+      "state": "MAHARASHTRA",
+      "id": 3
+    }
+  ]
+}

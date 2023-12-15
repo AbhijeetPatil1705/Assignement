@@ -1,0 +1,14 @@
+h2{
+    color: aliceblue;
+}
+.close{
+    font-weight: 800;
+    font-size: 33px;
+    border: none;
+    width: 50px;
+    background: none;
+    color:blue;
+}
+.mainDiv{
+    margin: 30px 400px 30px 400px;
+}
